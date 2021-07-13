@@ -1,0 +1,1 @@
+{"srcSha1sum":"ff479c5c0c6a36a427eb4427dbec56331ebcad3c","model":"cocossd","version":"mobilenet_v2","created":"2021-07-08T21:06:12.194Z","width":800,"height":599,"data":[{"bbox":[538.7136459350586,248.10016363859177,227.92234420776367,84.14297485351562],"class":"boat","score":0.1432630717754364}]}
