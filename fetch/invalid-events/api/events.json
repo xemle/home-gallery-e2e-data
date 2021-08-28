@@ -1,1 +1,15 @@
-{"type":"home-gallery/events@2.0","created":"2021-08-18T19:31:59.492Z","events":[{"id":"5aea2401-2e25-011d-969e-b04b5602a62a","type":"userAction","targetIds":["96419bb03fb2a041ff265e27cfccc4be8b04346d"],"actions":[{"action":"addTag","value":"hello"}],"date":"2021-08-18T19:31:59.499Z"}]}
+<!DOCTYPE html>
+<html lang="en">
+<meta charset="UTF-8">
+<title>HomeGallery Test Page</title>
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<body>
+
+
+<div class="">
+ <h1>HomeGallery SPA Page</h1>
+ <p>This happens if event.json is not available</p>
+</div>
+
+</body>
+</html> 
