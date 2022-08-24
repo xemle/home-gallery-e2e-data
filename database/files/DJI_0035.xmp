@@ -5,6 +5,8 @@
  <rdf:Description rdf:about=''
   xmlns:exif='http://ns.adobe.com/exif/1.0/'>
   <exif:DateTimeOriginal>2019-04-29T12:48:49</exif:DateTimeOriginal>
+  <exif:GPSLatitude>38,39.85075627S</exif:GPSLatitude>
+  <exif:GPSLongitude>143,6.17952956E</exif:GPSLongitude>
  </rdf:Description>
 </rdf:RDF>
 </x:xmpmeta>
