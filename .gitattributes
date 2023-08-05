@@ -9,3 +9,7 @@
 *.HEIC filter=lfs diff=lfs merge=lfs -text
 *.heif filter=lfs diff=lfs merge=lfs -text
 *.HEIF filter=lfs diff=lfs merge=lfs -text
+*.webp filter=lfs diff=lfs merge=lfs -text
+*.WEBP filter=lfs diff=lfs merge=lfs -text
+*.webm filter=lfs diff=lfs merge=lfs -text
+*.WEBM filter=lfs diff=lfs merge=lfs -text
