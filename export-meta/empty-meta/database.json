@@ -1,0 +1,53 @@
+{
+  "type": "home-gallery/database@1.2",
+  "created": "2023-09-01T22:18:44.741Z",
+  "data": [
+    {
+      "id": "687f920f08a3392d4d189e1cb499006aea7f1ede",
+      "type": "image",
+      "updated": "2023-09-01T22:18:44.726Z",
+      "date": "2019-04-28T08:48:49.000Z",
+      "files": [
+        {
+          "id": "687f920f08a3392d4d189e1cb499006aea7f1ede",
+          "index": "files",
+          "type": "image",
+          "size": 85529,
+          "filename": "DJI_0035.480.JPG"
+        }
+      ],
+      "previews": [
+        "68/7f/920f08a3392d4d189e1cb499006aea7f1ede-image-preview-320.jpg",
+        "68/7f/920f08a3392d4d189e1cb499006aea7f1ede-image-preview-128.jpg"
+      ],
+      "vibrantColors": [
+        "#10738A",
+        "#948866"
+      ],
+      "tags": [
+      ],
+      "objects": [],
+      "faces": [],
+      "tz": "Europe/Rome",
+      "width": 480,
+      "height": 360,
+      "orientation": 1,
+      "duration": 0,
+      "make": "DJI",
+      "model": "FC2103",
+      "iso": 100,
+      "aperture": 2.8,
+      "exposureMode": "Auto",
+      "focalLength": 4.5,
+      "focalLength33mm": 24,
+      "whiteBalance": "Auto",
+      "country": "Italien",
+      "state": "Apulien",
+      "city": "Nardò",
+      "road": "Strada Provinciale SP286 Santa Caterina - Sant'Isidoro - Porto Cesareo",
+      "latitude": 40.25667,
+      "longitude": 18.44416,
+      "altitude": 22
+    }
+  ]
+}
